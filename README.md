@@ -5,8 +5,9 @@ ___
 > Let's Travel is currently a static site. I am presently adding in a node.js backend utilizing CRUD requests to add admin functionality, interactive user posting  (to include image uploads, geographical detail and contact capabilities).
 
 ___
-
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/xSGbkEbX4xzfGfF2wf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xSGbkEbX4xzfGfF2wf">via GIPHY</a></p>
+<p align=center>
+  <img src="assets/lets_travel.gif" />
+</p>
 ___
 
 ## Table of Contents
